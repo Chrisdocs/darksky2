@@ -2,7 +2,7 @@ import React from "react"
 import "./styles.css";
 
 
-function Errie() {
+function WorldMap() {
     return (
         <div>
             
@@ -10,4 +10,4 @@ function Errie() {
     );
 }
 
-export default Errie;
+export default WorldMap;
