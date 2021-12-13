@@ -1,0 +1,17 @@
+.worldmap-img {
+    max-width: 50%;
+    border: none;
+    display: inline;
+}
+.worldmap-img:hover {
+    cursor: pointer;
+}
+
+.worldmap-zoom:hover {
+    cursor: pointer;
+}
+
+
+#worldmap-div {
+    margin-top: 2%;
+}

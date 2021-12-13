@@ -1,0 +1,29 @@
+#main-nav {
+    margin-top: 2%;
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+    padding: 7px;
+}
+
+.ul-left {
+    float: left;
+}
+
+.ul-right {
+    float: right;
+}
+
+#outlet-container {
+    padding-top: 7%;
+}
+
